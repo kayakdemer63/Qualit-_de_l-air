@@ -7,7 +7,7 @@
 
 qualite::qualite()
 {
-
+    qurl = "https://api.waqi.info/feed/clermont-ferrand/?token=d9636de539c0cc32e3771e378fd51527b70526f1";
 }
 
 void qualite::set_url(QString url)
